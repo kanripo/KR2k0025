@@ -1,0 +1,11 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 延祐四明志
+#+DATE: 2015-08-24 22:39:45.125870
+#+PROPERTY: ID KR2k0025
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
+<pb:KR2k0025_WYG_011-1a>¶
+欽定四庫全書¶
+　延祐四明志卷十一¶
+　　　　　　　　　　　　　元　袁桷　撰¶
+(闕/)¶
